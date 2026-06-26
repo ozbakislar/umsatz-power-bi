@@ -1,8 +1,8 @@
 # 📖 **Dil:** [Deutsch](README.md) | **Türkçe**
 
-# 📊 Satış Analizi Panosu (Türkiye)
+# 📊 Satış Analizi Panosu
 
-Bu proje, Türkiye'deki kurgusal bir şirkete ait 2022–2023 yılları satış verilerini görselleştiren ve analiz eden interaktif bir Power BI panosudur. Projenin amacı, dört temel alanda anlamlı içgörüler elde etmektir: Şehir bazında coğrafi satış dağılımı, ürün kategorisine göre satış performansı, bölgesel gelir analizi ve ürün bazında umsatz gelişimi. Pano yıl ve ay filtreleri aracılığıyla esnek ve detaylı bir analiz imkânı sunmaktadır.
+Bu proje, Türkiye'deki kurgusal bir şirkete ait 2022–2023 yılları satış verilerini görselleştiren ve analiz eden interaktif bir Power BI panosudur. Projenin amacı, dört temel alanda anlamlı içgörüler elde etmektir: Şehir bazında coğrafi satış dağılımı, ürün kategorisine göre satış performansı, bölgesel gelir analizi ve ürün bazında satış gelişimi. Pano yıl ve ay filtreleri aracılığıyla esnek ve detaylı bir analiz imkânı sunmaktadır.
 
 ## 📸 Ekran Görüntüsü
 
