@@ -4,6 +4,15 @@
 
 Dieses Projekt ist ein interaktives Power BI Dashboard, das Umsatzdaten eines fiktiven Unternehmens in der Türkei aus den Jahren 2022–2023 visualisiert und analysiert. Ziel war es, aussagekräftige Einblicke in vier zentrale Bereiche zu gewinnen: die geografische Umsatzverteilung nach Stadt, die Umsatzleistung nach Produktkategorie, die regionale Performance sowie die Umsatzentwicklung nach Produkt. Das Dashboard ermöglicht durch interaktive Filter (Jahr, Monat) eine flexible und detaillierte Analyse.
 
+**Regionen:**
+- Karadeniz → Schwarzmeerregion
+- Doğu Anadolu → Ostanatolien
+- İç Anadolu → Zentralanatolien
+- Marmara → Marmararegion
+- Güneydoğu Anadolu → Südostanatolien
+- Akdeniz → Mittelmeerregion
+- Ege → Ägäisregion
+
 ## 📸 Screenshots
 
 ![](1.png)
